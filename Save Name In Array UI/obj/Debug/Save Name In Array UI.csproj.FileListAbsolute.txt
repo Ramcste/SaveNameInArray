@@ -1,0 +1,9 @@
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\Save Name In Array UI\Save Name In Array UI\bin\Debug\Save Name In Array UI.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\Save Name In Array UI\Save Name In Array UI\bin\Debug\Save Name In Array UI.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\Save Name In Array UI\Save Name In Array UI\bin\Debug\Save Name In Array UI.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\Save Name In Array UI\Save Name In Array UI\obj\Debug\Save Name In Array UI.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\Save Name In Array UI\Save Name In Array UI\obj\Debug\Save_Name_In_Array_UI.Form1.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\Save Name In Array UI\Save Name In Array UI\obj\Debug\Save_Name_In_Array_UI.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\Save Name In Array UI\Save Name In Array UI\obj\Debug\Save Name In Array UI.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\Save Name In Array UI\Save Name In Array UI\obj\Debug\Save Name In Array UI.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\Save Name In Array UI\Save Name In Array UI\obj\Debug\Save Name In Array UI.pdb
